@@ -1,5 +1,5 @@
-# Task 3 - Text GeneratioMachine learning is powerful.
+Machine learning is powerful.
 Artificial intelligence is changing the world.
 Deep learning helps computers learn patterns.
 Neural networks are inspired by the human brain.
-Data science combines statistics and computing.n with Markov Chains
+Data science combines statistics and computing.
