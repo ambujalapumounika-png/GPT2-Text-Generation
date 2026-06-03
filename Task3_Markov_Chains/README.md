@@ -18,11 +18,13 @@ Data science combines statistics and computing.
 - data.txt
 - markov_chain.py
 - README.md
+- IMG_20260603_150119.jpg (Output Screenshot)
 
 ## Author
-Ambujala Pumounika
+AmbujalaPu mounika
 
 ## Sample Output
 AI helps doctors diagnose diseases.
 Technology is growing rapidly with AI.
 Machine learning supports data analysis.
+
