@@ -12,4 +12,8 @@ Generate images from text prompts using a pre-trained model.
 A futuristic city with flying cars at sunset
 
 ## Output
-generated_image.png
+- image_1.png
+- image_2.png
+- image_3.png
+- image_4.png
+- image_5.png
