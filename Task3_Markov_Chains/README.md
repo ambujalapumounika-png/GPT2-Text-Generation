@@ -21,3 +21,8 @@ Data science combines statistics and computing.
 
 ## Author
 Ambujala Pumounika
+
+## Sample Output
+AI helps doctors diagnose diseases.
+Technology is growing rapidly with AI.
+Machine learning supports data analysis.
