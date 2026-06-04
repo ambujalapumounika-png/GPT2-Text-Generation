@@ -13,7 +13,7 @@ Facades Dataset
 - Task4_Pix2Pix.ipynb
 - real_A.png
 - fake_B.png
-- output_screenshot.jpg
+- output_screenshot.jpg.pdf
 
 ## Results
 Successfully generated realistic building images from facade labels.
