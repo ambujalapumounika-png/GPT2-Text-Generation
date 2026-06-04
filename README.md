@@ -15,7 +15,7 @@ Custom AI-related text dataset.
 Successfully loaded GPT-2, prepared a custom dataset, and generated AI-related text.
 
 ## Files
-- GPT2_Text_Generation.ipynb
+- GPT2_Text_Generation.ipynb.pdf
 - data.txt
 - README.md
 - Screenshots
