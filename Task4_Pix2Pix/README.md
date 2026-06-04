@@ -10,10 +10,10 @@ Pix2Pix (Conditional GAN)
 Facades Dataset
 
 ## Files
-- Task4_Pix2Pix.ipynb
+- Task4_Pix2Pix.ipynb.pdf
 - real_A.png
 - fake_B.png
-- output_screenshot.jpg.pdf
+- output_screenshot.jpg
 
 ## Results
 Successfully generated realistic building images from facade labels.
