@@ -10,7 +10,7 @@ Generate human-like text using the pre-trained GPT-2 model from Hugging Face Tra
 - PyTorch
 
 ## Files
-- task1_gpt2.ipynb.pdf
+- GPT2_Text_Generation.ipynb.pdf
 - output_screenshot.jpg
 - README.md
 
