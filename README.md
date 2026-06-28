@@ -1,7 +1,7 @@
 # GPT-2 Text Generation Project
 
 ## Objective
-Fine-tune GPT-2 on a custom dataset and generate text.
+Generate human-like text using the pre-trained GPT-2 model.
 
 ## Dataset
 Custom AI-related text dataset.
